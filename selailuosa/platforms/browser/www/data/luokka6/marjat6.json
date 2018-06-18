@@ -1,0 +1,23 @@
+[
+  {
+      "pikkukuva": "img/pikkukuvat/marjat1.png",
+      "nimi_fi": "Oravanmarja",
+      "nimi_lat": "Maianthemum bifolium",
+      "tuntomerkit": "Tuntomerkit: Herttamainen lehti, valkoinen kukka ja kypsänä tummanpunainen marja.", 
+      "pituus": "Pituus: 5–20 cm.",
+      "kukintaaika": "Kukinta-aika: Touko–kesäkuu.",
+      "muuta": "Muuta: Marjat sisältävät sydämen toimintaan vaikuttavia aineita, ja jo muutaman gramman syöminen on vaarallista.",
+      "kuva": "img/luokka6/oravanmarja.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/marjat1.png",
+      "nimi_fi": "Variksenmarja",
+      "nimi_lat": "Empetrum nigrum",
+      "tuntomerkit": "Tuntomerkit: Punertava varsi, lehdet neulasmaisia, marja kiiltävän musta.", 
+      "pituus": "Pituus: 10-30 cm.",
+      "kukintaaika": "Kukinta-aika: Huhti-kesäkuu.",
+      "muuta": "Muuta: Variksenmarjan marjoja syövät monenlaiset eläimet punarinnasta metsoon ja kärpästä karhuun.",
+      "kuva": "img/luokka6/variksenmarja.png"
+    }
+
+]

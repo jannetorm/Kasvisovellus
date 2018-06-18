@@ -1,0 +1,52 @@
+[
+{
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Ahvenvita",
+      "nimi_lat": "Potamogeton perfoliatus",
+      "tuntomerkit": "Tuntomerkit: Varsi taipuisa, lehdet ohuet ja läpikuultavat, kukinto tähkämäinen", 
+      "pituus": "Pituus: 0,5-3 m.",
+      "kukintaaika": "Kukinta-aika: Heinä-elokuu",
+      "muuta": "Muuta: Ahvenvita kasvaa veden alla. Vain 2-3 cm pitkät kukinnot kohoavat vedenpinnan yläpuolelle.",
+      "kuva": "img/luokka3/ahvenvita.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Harakankello",
+      "nimi_lat": "Campanula patula",
+      "tuntomerkit": "Tuntomerkit: Kukat 5-liuskaisia, sinipunaisia.", 
+      "pituus": "Pituus: 25–80 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–syyskuu.",
+      "muuta": "Muuta: Kasvupaikkoina niityt, pientareet, tienvarret, kesantopellot, joutomaat.",
+      "kuva": "img/luokka3/harakankello.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Järviruoko",
+      "nimi_lat": "Phragmites australis",
+      "tuntomerkit": "Tuntomerkit: Korkea, vedessä kasvava heinäkasvi, pitkät lehdet", 
+      "pituus": "Pituus: 1-4 m.",
+      "kukintaaika": "Kukinta-aika: Heinä-syyskuu",
+      "muuta": "Muuta: Järviruokoa on käytetty olkikaton valmistukseen",
+      "kuva": "img/luokka3/jarviruoko.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Kurjenmiekka",
+      "nimi_lat": "Iris pseudacorus",
+      "tuntomerkit": "Tuntomerkit: Isot keltaiset kukat, kasvavat usein vesirajassa.", 
+      "pituus": "Pituus: 50–90 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–heinäkuu.",
+      "kuva": "img/luokka3/kurjenmiekka.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Leveäosmankäämi",
+      "nimi_lat": "Typha latifolia",
+      "tuntomerkit": "Tuntomerkit: Kukinto kaksiosainen ruskea tähkä, lehdet sinivihreitä. Monivuotinen ruoho.", 
+      "pituus": "Pituus: 100–200 cm.",
+      "kukintaaika": "Kukinta-aika: Heinä–elokuu.",
+      "muuta": "Muuta: Kasvupaikkoina rannat, ojat, lammikot, kaivannot. Matalassa vedessä tai joskus märällä maalla.",
+      "kuva": "img/luokka3/leveaosmankaami.png"
+    }
+    
+]

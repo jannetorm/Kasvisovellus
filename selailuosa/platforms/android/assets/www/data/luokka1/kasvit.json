@@ -1,0 +1,72 @@
+[
+{
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Käenkaali/Ketunleipä",
+      "nimi_lat": "Oxalis acetosella",
+      "tuntomerkit": "Tuntomerkit: kukka säteittäinen ja lehdet ruusukkeina.", 
+      "pituus": "Pituus: 5–10 cm.",
+      "kukintaaika": "Kukinta-aika: Touko–kesäkuu",
+      "muuta": "Muuta: Käenkaali on sopeutunut kasvamaan metsänpohjan varjossa.",
+      "kuva": "img/luokka1/kaenkaali.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Leskenlehti",
+      "nimi_lat": "Tussilago farfara",
+      "tuntomerkit": "Tuntomerkit: Varsi haaraton. Kukat muodostavat n. 1,5 cm leveitä kukkamaisia mykeröitä. Mykerön kukat kirkkaankeltaisia.", 
+      "pituus": "Pituus: Kukintoverso 5–30 cm, hedelmävaiheessa pitenevä.",
+      "kukintaaika": "Kukinta-aika: (Maalis–)huhti–kesäkuu.",
+      "muuta": "Muuta: Kevään ensimmäinen leskenlehti on vuodesta toiseen uutinen tiedotusvälineissä. Leskenlehti alkaa kukkia kevään ensimmäisissä pälvissä usein ensimmäisenä kasvina paljaalla maalla.",
+      "kuva": "img/luokka1/leskenlehti.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Voikukka",
+      "nimi_lat": "Taraxacum spp",
+      "tuntomerkit": "Tuntomerkit: Varsi haaraton, lehdetön ja ontto. Runsaasti maitiaisnestettä. Kukat muodostavat n. 2–3 cm leveitä mykeröitä. Mykerön kukat ovat keltaisia.", 
+      "pituus": "Pituus: 10-50 cm.",
+      "kukintaaika": "Kukinta-aika: Touko–heinäkuu. (Voi kukkia vielä myöhään syksyllä.)",
+      "muuta": "Muuta: Kasvaa usein ihmistoiminnan piirissä, kuten niityillä, pientareilla ja joutomailla. Myös rannoilla ja kosteikoissa.",
+      "kuva": "img/luokka1/voikukka.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Nokkonen",
+      "nimi_lat": "Urtica dioica",
+      "tuntomerkit": "Tuntomerkit: Lehdet tummanvihreitä. Sen lehdissä ja varressa on poltinkarvoja.", 
+      "pituus": "Pituus: 30-150 cm.",
+      "kukintaaika": "Kukinta-aika: Heinä–syyskuu.",
+      "muuta": "Muuta: Kasvupaikkana koko Suomi, puutarhat, pihat, pellon ja tien reunat. Nuoret lehdet sopivat ruuanlaittoon.",
+      "kuva": "img/luokka1/nokkonen.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Kanerva",
+      "nimi_lat": "Calluna vulgaris",
+      "tuntomerkit": "Tuntomerkit: Varsi tiheähaarainen, kukka vaaleansinipunainen.", 
+      "pituus": "Pituus: 10-50 cm.",
+      "kukintaaika": "Kukinta-aika: Heinä–elokuu.",
+      "muuta": "Muuta: Kasvupaikkana valoisat ja kuivat kangasmetsät, hietikot, rämeet, kalliot, tunturit.",
+      "kuva": "img/luokka1/kanerva.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Sinivuokko",
+      "nimi_lat": "Hepatica nobilis",
+      "tuntomerkit": "Tuntomerkit: kukat sinisen violetteja, lehdet herttatyvisiä.", 
+      "pituus": "Pituus: 10-15 cm.",
+      "kukintaaika": "Kukinta-aika: Huhti–toukokuu.",
+      "muuta": "Muuta: Kasvaa Etelä-Suomen metsissä. Sen kerääminen myytäväksi on kielletty. Se on myrkyllinen.",
+      "kuva": "img/luokka1/sinivuokko.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Valkovuokko",
+      "nimi_lat": "Anemone nemorosa",
+      "tuntomerkit": "Tuntomerkit: Lehdet kolmilehdykkäiset haarattomassa varressa, valkoinen kukka.", 
+      "pituus": "Pituus: 8-30 cm.",
+      "kukintaaika": "Kukinta-aika: (Huhti–)touko–kesäkuu.",
+      "muuta": "Muuta: Tunnettu äitienpäiväkukka.",
+      "kuva": "img/luokka1/valkovuokko.png"
+    }
+]

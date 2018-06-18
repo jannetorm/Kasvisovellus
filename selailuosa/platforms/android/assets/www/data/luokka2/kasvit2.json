@@ -1,0 +1,62 @@
+[
+{
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Puna-apila",
+      "nimi_lat": "Trifolium pratense",
+      "tuntomerkit": "Tuntomerkit: Kukka violetinpunainen, varsi usein monivartinen.", 
+      "pituus": "Pituus: 15–50 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–elo(–syys)kuu.",
+      "muuta": "Muuta: Puna-apila on maailman tärkeimpiä rehukasveja.",
+      "kuva": "img/luokka2/puna_apila.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Kielo",
+      "nimi_lat": "Convallaria majalis",
+      "tuntomerkit": "Tuntomerkit: Valkoiset ja pullean kellomaiset kukat sijaitsevat nuokkuvassa, terttumaisessa kukinnossa. Lehdet soikeita ja ehytreunaisia.", 
+      "pituus": "Pituus: 15–25 cm.",
+      "kukintaaika": "Kukinta-aika: Touko–kesäkuu.",
+      "muuta": "Muuta: Suomen kansalliskukka.",
+      "kuva": "img/luokka2/kielo.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Niittyleinikki",
+      "nimi_lat": "Ranunculus acris",
+      "tuntomerkit": "Tuntomerkit: Kukka kullankeltainen, varsi monihaarainen.", 
+      "pituus": "Pituus: 5–100 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–syyskuu.",
+      "muuta": "Muuta: Kasvaa koko Suomessa, niityillä ja tien reunoilla. Kukkii lähes koko kesän. Se on myrkyllinen.",
+      "kuva": "img/luokka2/niittyleinikki.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Piharatamo",
+      "nimi_lat": "Plantago major",
+      "tuntomerkit": "Tuntomerkit: Kukinto tiheä, kapean lieriömäinen tähkä.", 
+      "pituus": "Pituus: 5–30 cm.",
+      "kukintaaika": "Kukinta-aika: Heinä–syyskuu.",
+      "muuta": "Muuta: Kutsutaan myös joskus nimellä laastarilehti, sillä piharatamo on kätevä luonnonlaastari: lehti pehmitetään sitä vähän rutistelemalla, kostutetaan sylkäisemällä ja painetaan haavan päälle.",
+      "kuva": "img/luokka2/piharatamo.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Lumme",
+      "nimi_lat": "Nymphaea alba",
+      "tuntomerkit": "Tuntomerkit: Kelluslehdellinen vesikasvi, kukka valkoinen.", 
+      "pituus": "Pituus: Noin 0,5–2 m.",
+      "kukintaaika": "Kukinta-aika: Kesä–elokuu.",
+      "muuta": "Muuta: Lumpeet avaavat kukkansa vain valoisana aikana ja esim. sateella kukat saatavat sulkeutua.",
+      "kuva": "img/luokka2/lumme.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Ulpukka",
+      "nimi_lat": "Nuphar lutea",
+      "tuntomerkit": "Tuntomerkit: Kelluslehdellinen vesikasvi, kukka keltainen.", 
+      "pituus": "Pituus: 0,5–3 m.",
+      "kukintaaika": "Kukinta-aika: Kesä–elokuu.",
+      "muuta": "Muuta: Ulpukka viihtyy hyvin erilaisissa vesistöissä ja monenlaisilla pohjilla.",
+      "kuva": "img/luokka2/ulpukka.png"
+    }
+]

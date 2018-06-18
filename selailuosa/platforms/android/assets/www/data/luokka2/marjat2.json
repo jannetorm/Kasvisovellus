@@ -1,0 +1,22 @@
+[
+  {
+      "pikkukuva": "img/pikkukuvat/marjat1.png",
+      "nimi_fi": "Mansikka",
+      "nimi_lat": "Fragaria vesca",
+      "tuntomerkit": "Tuntomerkit: Lehdet kasvavat ruusukkeisesti, ja lehti on kolmisorminen. Kukat valkoisia. Marja punainen.", 
+      "pituus": "Pituus: 20–40 cm.",
+      "kukintaaika": "Kukinta-aika: Touko-kesäkuu.",
+      "muuta": "Muuta: Mansikassa on enemmän C-vitamiinia kuin appelsiinissa.",
+      "kuva": "img/luokka2/mansikka.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/marjat1.png",
+      "nimi_fi": "Vadelma",
+      "nimi_lat": "Rubus idaeus",
+      "tuntomerkit": "Tuntomerkit: Pensasmainen, lehdet soikeita, marjat punaisia.", 
+      "pituus": "Pituus: 0,5–1,5 m.",
+      "kukintaaika": "Kukinta-aika: Kesä–heinäkuu.",
+      "muuta": "Muuta: Vadelmia käytetään mm. hilloissa.",
+      "kuva": "img/luokka2/vadelma.png"
+    }
+]

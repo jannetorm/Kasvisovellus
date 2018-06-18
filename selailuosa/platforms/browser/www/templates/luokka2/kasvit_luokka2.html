@@ -1,0 +1,32 @@
+<button class="icon ion-arrow-left-c button button-outline button-small button-dark" ng-click='takaisin()'> Takaisin</button>
+<h4>2. luokka - Kasvit</h4>
+
+<ul class="list">
+                    <li class="item1" ng-repeat="kasvi in kasvit2">
+                        
+                        
+                    
+                    <div class="list card">
+                            
+                    <div class="item item-avatar">    
+                        <img class="pikkukuva" src="{{kasvi.pikkukuva}}">
+                        <h2>{{ kasvi.nimi_fi }}</h2>
+                        <p><i>Latinankielinen nimi</i></p>
+                    </div>
+                    
+                        <img class="isokuva" ng-src="{{kasvi.kuva}}"/>
+                        
+                    <div class="item item-body">    
+                    
+                    <p>{{ kasvi.tuntomerkit }}</p>
+                    <p>{{ kasvi.pituus }}</p>
+                    <p>{{ kasvi.kukintaaika }}</p>
+                    <p>{{ kasvi.muuta }}</p>
+                    </div>
+                        
+                    </div>
+                    
+                    </li> 
+          
+                </ul>
+<button class="icon ion-arrow-left-c button button-outline button-small button-dark" ng-click='takaisin()'> Takaisin</button>

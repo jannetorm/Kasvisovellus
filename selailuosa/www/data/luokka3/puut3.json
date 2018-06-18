@@ -1,0 +1,23 @@
+[
+{
+      "pikkukuva": "img/pikkukuvat/puu1.png",
+      "nimi_fi": "Paju",
+      "nimi_lat": "Salix",
+      "tuntomerkit": "Tuntomerkit: Pajulla on pitkät, ruskeat tai punertavat lakankiiltoiset versot. Se kukkii keväällä ennen lehtien puhkeamista. Siitä saadaan ”pajunkissat”.", 
+      "pituus": "Pituus: 0,5–3 m",
+      "kukintaaika": "Kukinta-aika: Huhti–kesäkuu. Kukkii ennen lehtien puhkeamista.",
+      "muuta": "Muuta: Suomessa pajulajeja on noin 20 ja risteymiä ainakin toinen mokoma.",
+      "kuva": "img/luokka3/paju.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/puu1.png",
+      "nimi_fi": "Tervaleppä",
+      "nimi_lat": "Alnus glutinosa",
+      "tuntomerkit": "Tuntomerkit: Lehdet ruodillisia, ehyitä. Pienet hede- ja emikukat eri kukinnoissa.", 
+      "pituus": "Pituus: 5-20 m.",
+      "kukintaaika": "Kukinta-aika: Huhtikuu. Kukkii ennen lehtien puhkeamista.",
+      "muuta": "Muuta: Tervalepän pehmeästä puusta tehtiin ennen puukenkiä ja lasitehtaissa muotteja.",
+      "kuva": "img/luokka3/tervaleppa.png"
+    }
+
+]

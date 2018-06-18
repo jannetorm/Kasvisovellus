@@ -1,0 +1,33 @@
+[
+{
+      "pikkukuva": "img/pikkukuvat/puu1.png",
+      "nimi_fi": "Harmaaleppä",
+      "nimi_lat": "Alnus incana",
+      "tuntomerkit": "Tuntomerkit: Suippokärkiset lehdet, jotka molemmilta pinnoilta harmaakarvaiset.", 
+      "pituus": "Pituus: 3-15 m.",
+      "kukintaaika": "Kukinta-aika: Huhti–toukokuu. Kukkii ennen lehtien puhkeamista.",
+      "muuta": "Muuta: Harmaaleppä on nopeakasvuinen, mutta lyhytikäinen (50–60 vuotta). Se suosii reheväkasvuisia maita ja on hyvin lisääntymis- ja leviämiskykyinen.",
+      "kuva": "img/luokka4/harmaaleppa.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/puu1.png",
+      "nimi_fi": "Hieskoivu",
+      "nimi_lat": "Betula pubescens",
+      "tuntomerkit": "Tuntomerkit: Koivujen runko on vaalean tai tummahkon tuohen peittämä. Lehdet kierteisesti.", 
+      "pituus": "Pituus: 8–20 m.",
+      "kukintaaika": "Kukinta-aika: Huhti-kesäkuu.",
+      "muuta": "Muuta: Tunturialueella kasvaa tunturikoivua, joka on hieskoivun lyhyempi, usein monirunkoinen tai pensastava alalaji.",
+      "kuva": "img/luokka4/hieskoivu.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/puu1.png",
+      "nimi_fi": "Kataja",
+      "nimi_lat": "Juniperus communis",
+      "tuntomerkit": "Tuntomerkit: Lehdet kiiltävän vihreitä neulasmaisia. Hedekukinnot keltaisia.", 
+      "pituus": "Pituus: 0,2-15 m.",
+      "kukintaaika": "Kukinta-aika: Touko-kesäkuu.",
+      "muuta": "Muuta: Kataja on kaksikotinen, lievästi myrkyllinen pensas tai pieni puu. Se voi elää jopa yli 400-vuotiaaksi.",
+      "kuva": "img/luokka4/kataja.png"
+    }
+
+]

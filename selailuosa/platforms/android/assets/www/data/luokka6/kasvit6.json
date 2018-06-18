@@ -1,0 +1,75 @@
+[
+   {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Karhunsammal",
+      "nimi_lat": "Polytrichum",
+      "tuntomerkit": "Tuntomerkit: Tummanvihreitä sammalia, joiden muoto muistuttaa minikokoista männyn taimea.", 
+      "pituus": "Pituus: 1-10 cm.",
+      "muuta": "Muuta: Karhunsammalet ovat lehtisammalten suku, johon kuuluu alle 200 lajia.",
+      "kuva": "img/luokka6/karhunsammal.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Kerrossammal",
+      "nimi_lat": "Hylocomium splendens",
+      "tuntomerkit": "Tuntomerkit: Kasvutapa kerroksellinen, verso kolmeen kertaan haarainen.", 
+      "pituus": "Pituus: 1-10 cm.",
+      "muuta": "Muuta: Sammalta on käytetty seinäsammalen tapaan seinäntilkkeenä.",
+      "kuva": "img/luokka6/kerrossammal.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Kynsisammal",
+      "nimi_lat": "Dicranum",
+      "tuntomerkit": "Tuntomerkit: Varsi on ruskea, ja sitä peittää ruskea nukka. Latva on suvulle nimen antanut kissan kynttä muistuttava koukku.", 
+      "pituus": "Pituus: 2-15 cm.",
+      "muuta": "Muuta: Kasvaa kivillä, kallioilla ja lahopuissa.",
+      "kuva": "img/luokka6/kynsisammal.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Naava",
+      "nimi_lat": "Usnea",
+      "tuntomerkit": "Tuntomerkit: Jäkäläkasvi, kasvaa puun oksilla, muistuttaa harmaata tai vihertävää partaa.", 
+      "pituus": "Pituus: 5-10 cm. Pisimmät jopa 20 cm.",
+      "muuta": "Muuta: Naavoja on käytetty lääkekasveina ainakin tuhat vuotta.",
+      "kuva": "img/luokka6/naava.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Poronjäkälä",
+      "nimi_lat": "Cladonia rangiferina",
+      "tuntomerkit": "Tuntomerkit: Tuhkanharmaata kuivaa jäkälää, kasvaa tasaisina tuppaina.", 
+      "pituus": "Pituus: 5-10 cm.",
+      "muuta": "Muuta: Poronjäkälä on poron tärkeintä ravintoa.",
+      "kuva": "img/luokka6/poronjakala.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Pietaryrtti",
+      "nimi_lat": "Tanacetum vulgare",
+      "tuntomerkit": "Tuntomerkit: Punaruskea varsi, kukat keltaisia torvimaisia, kukinnot ryhminä.", 
+      "pituus": "Pituus: 30-150 cm.",
+      "kukintaaika": "Kukinta-aika: Heinä–syys(–loka)kuu.",
+      "muuta": "Muuta: Hedelmäpuiden ja perennapenkkien vieressä sen on todettu torjuvan kirvoja, kuivattuna se puolestaan karkottaa koita, kärpäsiä, itikoita ja muurahaisia sisätiloista.",
+      "kuva": "img/luokka6/pietaryrtti.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Rahkasammal",
+      "nimi_lat": "Sphagnum",
+      "tuntomerkit": "Tuntomerkit: Vaaleanvihreä tai punertavan väristä. Imee paljon kosteutta maasta.", 
+      "pituus": "Pituus: 2-10 cm.",
+      "muuta": "Muuta: Rahkasammal viihtyy happamassa maassa, ja osittain maatuneen rahkasammalen muodostama turve on niin hapanta, etteivät yleiset puulajit ja monet varvut menesty siinä.",
+      "kuva": "img/luokka6/rahkasammal.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Seinäsammal",
+      "nimi_lat": "Pleurozium schreberi",
+      "tuntomerkit": "Tuntomerkit: Seinäsammalen punaiset varret ovat pystyjä ja ne haarovat sulkamaisesti.", 
+      "pituus": "Pituus: 2-15 cm.",
+      "muuta": "Muuta: Suomen yleisin sammallaji. Seinäsammalta käytettiin aiemmin seinien tiivistämiseen, mistä se on suomenkielisen nimensäkin saanut.",
+      "kuva": "img/luokka6/seinasammal.png"
+    }
+]

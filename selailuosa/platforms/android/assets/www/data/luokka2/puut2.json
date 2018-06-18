@@ -1,0 +1,23 @@
+[
+{
+      "pikkukuva": "img/pikkukuvat/puu1.png",
+      "nimi_fi": "Haapa",
+      "nimi_lat": "Populus tremula",
+      "tuntomerkit": "Tuntomerkit: Suora runko, kuori vihertävän harmaa, lehti pyöreä ja mutkalaitainen.", 
+      "pituus": "Pituus: 15–30 m.",
+      "kukintaaika": "Kukinta-aika: Huhti–kesäkuu. Kukkii ennen lehtien puhkeamista.",
+      "muuta": "Muuta: Haapa on kevyttä ja helposti työkaluilla muotoiltavaa puuta, minkä vuoksi sitä käytetään usein esimerkiksi saunan lauteiden tekemiseen.",
+      "kuva": "img/luokka2/haapa.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/puu1.png",
+      "nimi_fi": "Vaahtera",
+      "nimi_lat": "Acer platanoides",
+      "tuntomerkit": "Tuntomerkit: Isot 3- tai 5-halkioiset lehdet.", 
+      "pituus": "Pituus: 10–20 m.",
+      "kukintaaika": "Kukinta-aika: Touko–kesäkuu. Kukkii lehtien puhjetessa.",
+      "muuta": "Muuta: Syysväritys tumman karmiininpunaisesta oranssiin ja kullankeltaiseen.",
+      "kuva": "img/luokka2/vaahtera.png"
+    }
+
+]

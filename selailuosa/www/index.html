@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html ng-app="kasvisovellus">
+    <head> 
+        <title>Kasvisto</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="stylesheet" href="css/ionic.min.css">
+        <link rel="stylesheet" href="css/tyylit.css">
+
+        <script src="js/ionic.bundle.min.js"></script>
+        <script src="js/ng-cordova.min.js"></script>
+        <script src="cordova.js"></script>
+        <script src="js/angular-route.min.js"></script>
+        <script src="js/jquery.js"></script>
+        <script src="js/ui-bootstrap-tpls-2.5.0.min"></script>
+        <script src="js/app.js"></script> 
+        <script src="js/kontrollerit.js"></script>
+
+        
+    </head>
+    <body ng-controller="kasvisovCtrl">
+        
+           <ion-side-menus>
+        
+        <ion-side-menu side="left">
+          
+         <div class="list has-header">
+             <img src="img/logo.png" class="logo">
+             <a href="#/kasvit12" class="item" menu-close> 1.-2.-luokkalaisille</a>
+             <a href="#/kasvit34" class="item" menu-close><i> 3.-4.-luokkalaisille</i></a>
+             <a href="#/kasvit56" class="item" menu-close><i> 5.-6.-luokkalaisille</i></a>
+             <a href="#/haku" class="item" menu-close>Haku</a>
+         </div>
+            
+        </ion-side-menu>
+        
+        <ion-side-menu-content>
+
+                <ion-header-bar align-title="center" class="bar-balanced">
+
+                     <button class="button button-icon icon ion-navicon" ng-click="naytaMenu()"></button>
+                    
+                    <h1 class="title">Kasvisto</h1>
+
+                </ion-header-bar>
+
+                <ion-content class="has-header padding">
+            
+                        <div ng-view> 
+       
+  
+                    </div>
+                    
+                </ion-content>     
+
+        </ion-side-menu-content>
+
+    </ion-side-menus>
+
+    </body>
+</html>

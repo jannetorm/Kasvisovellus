@@ -1,0 +1,22 @@
+[
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Siankärsämö",
+      "nimi_lat": "Brassica rapa",
+      "tuntomerkit": "Tuntomerkit: Valkoiset ryppäisssä kukkivat kukinnot, varsi pehmeäkarvainen vihreä.", 
+      "pituus": "Pituus: 20–70 cm.",
+      "kukintaaika": "Kukinta-aika: Heinä–syys(–loka)kuu.",
+      "muuta": "Muuta: Osa ihmisistä saa ihottumaa jo kasvin koskettelusta. Sisäisesti nautittuna ylisuuret annokset aiheuttavat huimausta ja päänsärkyä.",
+      "kuva": "img/luokka5/siankarsamo.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Timotei",
+      "nimi_lat": "Phleum pratense",
+      "tuntomerkit": "Tuntomerkit: Timoteillä on jäykkä, tyvestä hieman paksuuntunut korsi. Kukinto on lieriömäinen, tiheä tähkä, joka on väriltään vihreä tai heikosti sinipunainen.", 
+      "pituus": "Pituus: 30-100 cm.",
+      "muuta": "Muuta: Timotein siitepöly on yleinen ja voimakas allergeeni.",
+      "kuva": "img/luokka5/timotei.png"
+    }
+    
+]

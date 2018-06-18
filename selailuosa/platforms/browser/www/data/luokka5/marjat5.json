@@ -1,0 +1,43 @@
+[
+  {
+      "pikkukuva": "img/pikkukuvat/marjat1.png",
+      "nimi_fi": "Hilla",
+      "nimi_lat": "Rubus chamaemorus",
+      "tuntomerkit": "Tuntomerkit: Valkoinen kukka, marja aluksi punainen, kypsänä keltainen.", 
+      "pituus": "Pituus: 10–25 cm.",
+      "kukintaaika": "Kukinta-aika: Kesäkuu.",
+      "muuta": "Muuta: Lakka on suoluontomme tavoitelluin aarre: sen marja on aromikas ja hyvin C-vitamiinipitoinen herkku. Lakka on monien hienojen jälkiruokien, leivonnaisten ja liköörien raaka-aine.",
+      "kuva": "img/luokka5/hilla.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/marjat1.png",
+      "nimi_fi": "Karpalo",
+      "nimi_lat": "Vaccinium oxycoccos",
+      "tuntomerkit": "Tuntomerkit: Kanervakasvi, varsi rihmamainen. Lehdet tummanvihreitä ja kiiltäviä. Marja tummanpunainen pallomainen 10-15 mm leveä.", 
+      "pituus": "Pituus: Noin 5 cm korkea, maanmyötäiset versot 10–80 cm pitkiä.",
+      "kukintaaika": "Kukinta-aika: Kesä-heinäkuu.",
+      "muuta": "Muuta: Karpalo on yksi harvoja karuilla soilla rahkasammalen pinnalla menestyviä kasveja. Karpalon marjoista voidaan valmistaa mehua, hilloa tai vaikkapa likööriä.",
+      "kuva": "img/luokka5/karpalo.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/marjat1.png",
+      "nimi_fi": "Metsämansikka",
+      "nimi_lat": "Fragaria vesca",
+      "tuntomerkit": "Tuntomerkit: Valkoinen viisi terälehtinen kukka. Marja samanlainen kuin puutarhamansikassa, mutta huomattavasti pienempi.", 
+      "pituus": "Pituus: 5–20 cm.",
+      "kukintaaika": "Kukinta-aika: Touko–heinäkuu.",
+      "muuta": "Muuta: Ahomansikka on vähentynyt viime aikoina, kun perinteisen maatalouden ylläpitämät kasviyhteisöt ovat häviämässä.",
+      "kuva": "img/luokka5/metsamansikka.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/marjat1.png",
+      "nimi_fi": "Vadelma",
+      "nimi_lat": "Rubus idaeus",
+      "tuntomerkit": "Tuntomerkit: Pensasmainen, lehdet soikeita, marjat punaisia.", 
+      "pituus": "Pituus: 0,5–1,5 m.",
+      "kukintaaika": "Kukinta-aika: Kesä–heinäkuu.",
+      "muuta": "Muuta: Vadelmia käytetään mm. hilloissa.",
+      "kuva": "img/luokka5/vadelma.png"
+    }
+    
+]

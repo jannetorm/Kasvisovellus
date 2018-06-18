@@ -1,0 +1,32 @@
+{
+  "name": "fi.xamk.jt.kasvi",
+  "displayName": "Tunnista kasvi -peli",
+  "version": "1.0.0",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Apache Cordova Team",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cordova-android": "^6.3.0",
+    "cordova-browser": "^5.0.1",
+    "cordova-force-app-close": "^1.0.1",
+    "cordova-plugin-screen-orientation": "^2.0.2",
+    "cordova-plugin-whitelist": "^1.3.3",
+    "es6-promise-plugin": "^4.1.1",
+    "mo-force-app-close": "~1.0.0"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-screen-orientation": {},
+      "mo-force-app-close": {}
+    },
+    "platforms": [
+      "browser",
+      "android"
+    ]
+  }
+}

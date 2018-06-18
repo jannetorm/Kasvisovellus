@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "fi.xamk.jt.kasvi"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "fi.xamk.jt.kasvi"
+    },
+    "mo-force-app-close": {
+      "PACKAGE_NAME": "fi.xamk.jt.kasvi"
+    }
+  },
+  "dependent_plugins": {}
+}

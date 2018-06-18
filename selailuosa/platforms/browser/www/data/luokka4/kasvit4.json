@@ -1,0 +1,128 @@
+[
+{
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Kissankello",
+      "nimi_lat": "Campanula rotundifolia",
+      "tuntomerkit": "Tuntomerkit: Siniset kellomaiset kukat.", 
+      "pituus": "Pituus: 10–60 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–syyskuu.",
+      "muuta": "Muuta: Kasvupaikkoina niityt, laitumet, joutomaat, tienvarret, pientareet, kalliot, harjut, valoisat metsät, puronvarret, tunturikankaat. Tunturikissankello on kalkinsuosija.",
+      "kuva": "img/luokka4/kissankello.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Koiranputki",
+      "nimi_lat": "Anthriscus sylvestris",
+      "tuntomerkit": "Tuntomerkit: Valkoiset kukat, varsi haarova.", 
+      "pituus": "Pituus: 50–150 cm.",
+      "kukintaaika": "Kukinta-aika: Touko–kesä(–heinä)kuu.",
+      "kuva": "img/luokka4/koiranputki.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Maitohorsma",
+      "nimi_lat": "Epilobium angustifolium",
+      "tuntomerkit": "Tuntomerkit: Kukat purppuranpunaisia, joskus vaaleanpunaisen-valkoisia.", 
+      "pituus": "Pituus: 50–150 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–elokuu.",
+      "kuva": "img/luokka4/maitohorsma.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Ohra",
+      "nimi_lat": "Hordeum vulgare",
+      "tuntomerkit": "Tuntomerkit: Pitkät vihneet, kun ohran tähkä kypsyy, se taipuu alaspäin.", 
+      "pituus": "Pituus: Ohra kasvaa noin metrin korkuiseksi.",
+      "kukintaaika": "Kukinta-aika: Kesä-heinäkuu.",
+      "muuta": "Muuta: Suomessa ohra oli tärkein ruokavilja 1800-luvulle asti, jolloin ruis otti sen paikan.",
+      "kuva": "img/luokka4/ohra.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Päivänkakkara",
+      "nimi_lat": "Leucanthemum vulgare",
+      "tuntomerkit": "Tuntomerkit: Kukat valkoisia, varsi haaraton.", 
+      "pituus": "Pituus: 20–70 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–syyskuu.",
+      "kuva": "img/luokka4/paivankakkara.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Pujo",
+      "nimi_lat": "Artemisia vulgaris",
+      "tuntomerkit": "Tuntomerkit: Monivartinen, varsi tummanpunaruskea. Kukat 2,5-3 mm leveitä.", 
+      "pituus": "Pituus: 50–150(–200) cm.",
+      "kukintaaika": "Kukinta-aika: Elo–lokakuu.",
+      "muuta": "Muuta: Ennen vanhaan pujonverson uskottiin suojaavan paholaiselta, villipedoilta, myrkyiltä, tulelta, vedeltä ja salamaniskuilta.",
+      "kuva": "img/luokka4/pujo.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Puna-apila",
+      "nimi_lat": "Trifolium pratense",
+      "tuntomerkit": "Tuntomerkit: Kukka violetti, joskus vaaleanpunainen-valkea.", 
+      "pituus": "Pituus: 15–50 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–elo(–syys)kuu.",
+      "kuva": "img/luokka4/puna_apila.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Ruis",
+      "nimi_lat": "Secale cereale",
+      "tuntomerkit": "Tuntomerkit: Rukiin kukinto on tähkä. Jyvissä on lyhyehköt vihneet. Ruis jaetaan kahteen päätyyppiin: syys- ja kevätrukiiseen.", 
+      "pituus": "Pituus: 130-150 cm.",
+      "kukintaaika": "Kukinta-aika: Syysruis kylvetään jo syyskesällä, ja se talvehtii oraina. Syysrukiin sato korjataan seuraavana vuonna heinä-elokuussa. Kevätruis kylvetään keväällä, ja sen sato valmistuu saman vuoden syksyllä.",
+      "muuta": "Muuta: Ruis on tuulipölytteinen, ja sen eri lajikkeet ja kannat risteytyvät keskenään, jos niitä kasvatetaan lähekkäin.",
+      "kuva": "img/luokka4/ruis.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Rypsi",
+      "nimi_lat": "Brassica rapa",
+      "tuntomerkit": "Tuntomerkit: Keltainen kukka, terälehtiä neljä. Auenneet kukat ulottuvat nuppuja ylemmäs.", 
+      "pituus": "Pituus: 40–100 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–heinä(–elo)kuu.",
+      "muuta": "Muuta: Rypsiä kasvatetaan öljypitoisten siementensä takia viileän ilmaston alueilta tropiikkiin asti.",
+      "kuva": "img/luokka4/rypsi.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Siankärsämö",
+      "nimi_lat": "Brassica rapa",
+      "tuntomerkit": "Tuntomerkit: Valkoiset ryppäisssä kukkivat kukinnot, varsi pehmeäkarvainen vihreä.", 
+      "pituus": "Pituus: 20–70 cm.",
+      "kukintaaika": "Kukinta-aika: Heinä–syys(–loka)kuu.",
+      "muuta": "Muuta: Osa ihmisistä saa ihottumaa jo kasvin koskettelusta. Sisäisesti nautittuna ylisuuret annokset aiheuttavat huimausta ja päänsärkyä.",
+      "kuva": "img/luokka4/siankarsamo.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Timotei",
+      "nimi_lat": "Phleum pratense",
+      "tuntomerkit": "Tuntomerkit: Timoteillä on jäykkä, tyvestä hieman paksuuntunut korsi. Kukinto on lieriömäinen, tiheä tähkä, joka on väriltään vihreä tai heikosti sinipunainen.", 
+      "pituus": "Pituus: 30-100 cm.",
+      "muuta": "Muuta: Timotein siitepöly on yleinen ja voimakas allergeeni.",
+      "kuva": "img/luokka4/timotei.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Vehnä",
+      "nimi_lat": "Triticum aestivum",
+      "tuntomerkit": "Tuntomerkit: Vehnän kukinto on tähkä, jyvässä ei yleensä ole vihneitä.", 
+      "pituus": "Pituus: 80-95 cm.",
+      "kukintaaika": "Kukinta-aika: Suomessa viljellään sekä kevät- että syysvehnää. Syysvehnä kylvetään syksyllä, yleensä syyskuun alussa. Se talvehtii orasasteella ja sen sato korjataan seuraavan vuoden syksyllä. Kevätvehnä kylvetään keväällä heti kun maan sen sallii ja korjataan saman vuoden syksyllä.",
+      "muuta": "Muuta: Vehnä on riisin ja maissin ohella yksi maailman kolmesta eniten viljellystä viljalajista, ja vuosittain sitä tuotetaan maailmassa noin 600 miljoonaa tonnia.",
+      "kuva": "img/luokka4/vehna.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Vuohenputki",
+      "nimi_lat": "Aegopodium podagraria",
+      "tuntomerkit": "Tuntomerkit: Ontto vihreä varsi. Valkoinen ryppäissä kukkiva kukka.", 
+      "pituus": "Pituus: 30–100 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–elokuu.",
+      "muuta": "Muuta: Nykyihmisen ryytimaalla vuohenputki on kiusallinen rikkaruoho, mutta keskiajalla sitä on saatettu levittää aivan tarkoituksella lääkekasviksi kihdin parantamiseen (hauteena).",
+      "kuva": "img/luokka4/vuohenputki.png"
+    }
+    
+]

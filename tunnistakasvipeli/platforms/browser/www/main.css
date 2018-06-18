@@ -1,0 +1,1525 @@
+@font-face {
+font-family: BebasNeue;
+src: url(BebasNeue.otf) format("opentype");
+}
+
+html {
+margin: 0;
+padding: 0;
+width:100%;
+height: 100%;
+font-family: BebasNeue;
+overflow-x: hidden;
+
+}
+
+body {
+margin: 0;
+padding: 0;
+position: fixed;
+background: #000 url("img/tausta.png") no-repeat fixed center;
+background-size: 100% 100%;
+overflow: hidden;
+overflow-x: hidden;
+}
+
+#navContent{
+margin:0 auto;
+padding: 0;
+width:1050px;
+height:1350px;
+position:fixed;
+overflow:hidden;
+
+/* Enable hardware acceleration to fix laggy transitions */
+-webkit-transform: translate3d(0,0,0);
+-moz-transform: translate3d(0,0,0);
+-ms-transform: translate3d(0,0,0);
+-o-transform: translate3d(0,0,0);
+transform: translate3d(0,0,0);
+}
+
+
+.menukuva{
+        background-image: url("img/valikko_nappi1.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:550px;
+        height:150px;
+        padding-top:0;
+        margin-top:0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+        .menukuva2{
+        background-image: url("img/valikko_nappi2.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:550px;
+        height:150px;
+        padding-top:0;
+        margin-top:0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+        .menukuva3{
+        background-image: url("img/valikko_nappi3.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:550px;
+        height:150px;
+        padding-top:0;
+        margin-top:0;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+    .valinta1, .valinta2, .valinta3{
+        width: 550px;
+        height: 65px;
+        font-size:95px;
+        text-align:center;
+        padding-top:15px;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+    
+    .otsikko{
+        width:550px;
+        height:550px;
+        margin:0;
+        padding:0;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+    .menukuva{
+        margin-top:30px;
+    }
+    
+#game1{
+margin:auto;
+margin:1%;
+width:99%;
+height:1300px;
+right:-1000px;
+position:absolute;
+
+/* Enable hardware acceleration to fix laggy transitions */
+-webkit-transform: translate3d(0,0,0);
+-moz-transform: translate3d(0,0,0);
+-ms-transform: translate3d(0,0,0);
+-o-transform: translate3d(0,0,0);
+transform: translate3d(0,0,0);
+}
+
+#game2{
+margin:auto; 
+margin:1%;
+width:99%;
+height:1300px;
+right:-1000px;
+position:absolute;
+
+-webkit-transform: translate3d(0,0,0);
+-moz-transform: translate3d(0,0,0);
+-ms-transform: translate3d(0,0,0);
+-o-transform: translate3d(0,0,0);
+transform: translate3d(0,0,0);
+}
+
+
+.ylapalkki {
+    
+ background-color:#407c52;
+ width:100%;
+ text-align:center;
+ font-size:100px;
+ color:white;
+-webkit-text-fill-color: white;
+text-shadow: 3px 2px black;
+margin:0;
+padding:0;
+margin-left: auto;
+margin-right: auto;
+margin-top: -10px;  
+    
+}
+ 
+    .questionText{  
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+    }
+
+    .kuva1{
+        background-image: url("img/pelinappi.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:410px;
+        height:100px;
+        padding-top:0px;
+        margin-top:70px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .pix1{
+        width: 410px;
+        height: 100px;
+        text-align:center;
+        font-size:55px;
+        color: white;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+        padding:0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    
+        .kuva{
+        background-image: url("img/pelinappi.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:410px;
+        height:100px;
+        padding-top:0px;
+        margin-top:40px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .pix{
+        width: 410px;
+        height: 100px;
+        text-align:center;
+        font-size:55px;
+        color: white;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+        padding:0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .kysymysnumero{
+        font-size:65px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 1px 2px black;
+        position: absolute;
+        left:640px;
+        top:195px;
+
+    }
+    
+    
+        .pisteet{
+        font-size:90px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 2px 3px black;
+        position: absolute;
+        right:690px;
+        top:520px;
+
+    }
+    
+    
+    img{
+    width:600px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:30px;
+    margin-top:40px;
+    }
+
+
+   
+       .ylapalkki2{
+   background-color:#407c52;
+   width:100%;
+   text-align:center;
+   font-size:100px;
+   color:white;
+   -webkit-text-fill-color: white;
+   text-shadow: 3px 2px black;
+   margin:0;
+   padding:0;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: -10px; 
+    }
+    
+    .loppu{
+        background-image: url("img/palaute.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        height:600px; 
+        margin-bottom:25px;
+        display: block;
+        text-align:center;
+        margin:0;
+        padding:0;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top:60px;
+    }
+        
+    .tulokset{
+        height:420px;     
+        text-align:center;
+        font-size:140px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+        display: block;
+        margin:0;
+        padding:0;
+        padding-top:100px;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+        .pelaauud{
+        background-image: url("img/jatkamenuun.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:560px;
+        height:170px;
+        margin:0;
+        padding:0;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top:5px;
+        margin-top:70px;
+    }
+    
+        .uudestaan{
+        width:560px;
+        height:170px;
+        text-align:center;
+        font-size:100px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+         margin:0;
+        padding:0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+.feedback1{
+position:absolute;
+left:0; 
+right:0;
+top:-100px; 
+bottom:0;
+margin:auto;
+width:900px;
+height:900px;
+
+}
+
+.y{
+position:absolute;
+left:0; 
+right:0;
+top:0;  
+bottom:0;
+margin:auto;
+width: 98%;
+height:98%;
+
+}
+
+
+@media screen and (max-width:800px) {
+
+html {
+margin: 0;
+padding: 0;
+width:100%;
+height: 100%;
+font-family: BebasNeue;
+overflow-x: hidden;
+
+}
+     
+body {
+margin: 0;
+padding: 0;
+position: fixed;
+background: #000 url("img/tausta.png") no-repeat fixed center;
+background-size: 100% 100%;
+overflow: hidden;
+overflow-x: hidden;
+}
+    
+.menukuva{
+        background-image: url("img/valikko_nappi1.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:420px;
+        height:130px;
+        padding-top:0;
+        margin-top:0;
+    }
+        .menukuva2{
+        background-image: url("img/valikko_nappi2.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:420px;
+        height:130px;
+        padding-top:0;
+        margin-top:0;
+    }
+        .menukuva3{
+        background-image: url("img/valikko_nappi3.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:420px;
+        height:130px;
+        padding-top:0;
+        margin-top:0;
+        
+    }
+    .valinta1, .valinta2, .valinta3{
+        width: 420px;
+        height: 65px;
+        font-size:75px;
+        text-align:center;
+        padding-top:10px;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+        
+    }
+    
+    .otsikko{
+        width:450px;
+        height:450px;
+        margin:0;
+        padding:0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .menukuva{
+        margin-top:20px;
+    }
+    
+    .ylapalkki {
+    
+    background-color:#407c52;
+    width:100%;
+    text-align:center;
+    font-size:65px;
+    color:white;
+    -webkit-text-fill-color: white;
+    text-shadow: 3px 2px black;
+    margin:0;
+    padding:0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -10px;  
+    
+} 
+  
+    .kuva1{
+        background-image: url("img/pelinappi.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:360px;
+        height:90px;
+        padding-top:0px;
+        margin-top:50px;
+    }
+    
+    .pix1{
+        width: 360px;
+        height: 90px;
+        text-align:center;
+        font-size:55px;
+        color: white;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+        padding:0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+       
+    }
+
+  .kuva{
+        background-image: url("img/pelinappi.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:360px;
+        height:90px;
+        padding-top:0px;
+        margin-top:10px;
+    }
+    
+    .pix{
+        width: 360px;
+        height: 90px;
+        text-align:center;
+        font-size:55px;
+        color: white;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+        padding:0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+       
+    }
+
+    .kysymysnumero{
+        font-size:50px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 1px 2px black;
+        position: absolute;
+        left:490px;
+        top:145px;
+
+    }
+    
+    
+        .pisteet{
+        font-size:80px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 2px 3px black;
+        position: absolute;
+        right:520px;
+        top:400px;
+
+    }
+    
+    
+    img{
+    width:479px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:30px;
+    margin-top:40px;
+    }
+ 
+    .questionText{  
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+    }
+    
+
+    #navContent{
+        width:101%;
+        height:995px;
+
+    }
+    #game1{
+        margin:1%;
+        width:99%;
+        height:99%;
+    }
+    #game2{
+        margin:1%;
+        width:99%;
+        height:99%;
+    }
+    
+    
+       .ylapalkki2{
+    background-color:#407c52;
+    width:100%;
+    text-align:center;
+    font-size:65px;
+    color:white;
+    -webkit-text-fill-color: white;
+    text-shadow: 3px 2px black;
+    margin:0;
+    padding:0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -10px;
+    }
+    
+       .loppu{
+        background-image: url("img/palaute.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        height:500px; 
+        margin-bottom:25px;
+        display: block;
+        text-align:center;
+        margin:0;
+        padding:0;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top:60px;
+    }
+        
+    .tulokset{
+        height:420px;     
+        text-align:center;
+        font-size:100px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+        display: block;
+        margin:0;
+        padding:0;
+        padding-top:100px;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+        .pelaauud{
+        background-image: url("img/jatkamenuun.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:460px;
+        height:135px;
+        margin:0;
+        padding:0;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top:5px;
+        margin-top:70px;
+    }
+    
+        .uudestaan{
+        width:460px;
+        height:135px;
+        text-align:center;
+        font-size:75px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+         margin:0;
+        padding:0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .feedback1{
+    position:absolute;
+    left:0; 
+    right:0;
+    top:0px; 
+    bottom:0;
+    margin:auto;
+    width:700px;
+    height:700px;
+
+    }
+
+    .y{
+    position:absolute;
+    left:0; 
+    right:0;
+    top:0; 
+    bottom:0;
+    margin:auto;
+    width: 98%;
+    height:98%;
+
+    }
+    
+}
+
+@media screen and (max-width:600px) {
+   
+    html {
+margin: 0;
+padding: 0;
+width:100%;
+height: 100%;
+font-family: BebasNeue;
+overflow-x: hidden;
+
+}
+     
+body {
+margin: 0;
+padding: 0;
+position: fixed;
+background: #000 url("img/tausta.png") no-repeat fixed center;
+background-size: 100% 100%;
+overflow: hidden;
+overflow-x: hidden;
+}
+    
+    .menukuva{
+        background-image: url("img/valikko_nappi1.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:290px;
+        height:100px;
+        padding-top:0;
+        margin-top:0;
+    }
+        .menukuva2{
+        background-image: url("img/valikko_nappi2.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:290px;
+        height:100px;
+        padding-top:0;
+        margin-top:0;
+    }
+        .menukuva3{
+        background-image: url("img/valikko_nappi3.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:290px;
+        height:100px;
+        padding-top:0;
+        margin-top:0;
+        
+    }
+    .valinta1, .valinta2, .valinta3{
+        width: 290px;
+        height: 65px;
+        font-size:55px;
+        text-align:center;
+        padding-top:5px;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+        
+    }
+    
+    .otsikko{
+        width:325px;
+        height:325px;
+        margin:0;
+        padding:0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .menukuva{
+        margin-top:30px;
+    }
+    
+     .ylapalkki {
+    
+    background-color:#407c52;
+    width:100%;
+    text-align:center;
+    font-size:45px;
+    color:white;
+    -webkit-text-fill-color: white;
+    text-shadow: 2px 1px black;
+    margin:0;
+    padding:0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:-5px;
+    
+}
+    
+    .questionText{  
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+    }
+    
+    .kuva1{
+        background-image: url("img/pelinappi.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:260px;
+        height:65px;
+        padding-top:0px;
+        margin-top:33px;
+      
+    }
+    
+    .pix1{
+        width: 260px;
+        height: 65px;
+        text-align:center;
+        font-size:35px;
+        color: white;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+        padding:0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+    
+       .kuva{
+        background-image: url("img/pelinappi.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:260px;
+        height:65px;
+        padding-top:0px;
+        margin-top:5px;
+      
+    }
+    
+    .pix{
+        width: 260px;
+        height: 65px;
+        text-align:center;
+        font-size:35px;
+        color: white;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+        padding:0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .kysymysnumero{
+        font-size:35px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 1px 2px black;
+        position: absolute;
+        left:272px;
+        top:90px;
+
+    }
+    
+    
+        .pisteet{
+        font-size:50px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 2px 3px black;
+        position: absolute;
+        right:295px;
+        top:260px;
+
+    }
+    
+    
+    img{
+    width:310px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:30px;
+    margin-top:20px;
+    }
+    
+    #navContent{
+        width:101%;
+        height:652px;
+        
+    }
+    #game1{
+        margin:1%;
+        width:99%;
+        height:99%;
+    }
+    #game2{
+        margin:1%;
+        width:99%;
+        height:99%;
+    }
+    
+        .ylapalkki2{
+    background-color:#407c52;
+    width:100%;
+    text-align:center;
+    font-size:45px;
+    color:white;
+    -webkit-text-fill-color: white;
+    text-shadow: 2px 1px black;
+    margin:0;
+    padding:0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:-5px;
+    }
+    
+    .loppu{
+        background-image: url("img/palaute.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        height:290px; 
+        margin-bottom:25px;
+        display: block;
+        margin:0;
+        padding:0;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top:60px;
+    }
+        
+    .tulokset{
+        height:220px;     
+        text-align:center;
+        font-size:60px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+        display: block;
+        margin:0;
+        padding:0;
+        padding-top:60px;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+        .pelaauud{
+        background-image: url("img/jatkamenuun.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:260px;
+        height:75px;
+        margin:0;
+        padding:0;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top:5px;
+        margin-top:70px;
+    }
+    
+        .uudestaan{
+        width:260px;
+        height:75px;
+        text-align:center;
+        font-size:50px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+         margin:0;
+        padding:0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .feedback1{
+    position:absolute;
+    left:0; 
+    right:0;
+    top:150px; 
+    bottom:0;
+    margin:auto;
+    width:400px;
+    height:400px;
+
+    }
+
+    .y{
+    position:absolute;
+    left:0; 
+    right:0;
+    top:0; 
+    bottom:0;
+    margin:auto;
+    width: 98%;
+    height:98%;
+
+    }
+}
+
+@media screen and (max-width:400px) {
+
+    html {
+margin: 0;
+padding: 0;
+width:100%;
+height: 100%;
+font-family: BebasNeue;
+overflow-x: hidden;
+
+}
+     
+body {
+margin: 0;
+padding: 0;
+position: fixed;
+background: #000 url("img/tausta.png") no-repeat fixed center;
+background-size: 100% 100%;
+overflow: hidden;
+overflow-x: hidden;
+}
+    
+  .menukuva{
+        background-image: url("img/valikko_nappi1.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:270px;
+        height:80px;
+        padding-top:0;
+        margin-top:0;
+    }
+      .menukuva2{
+        background-image: url("img/valikko_nappi2.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:270px;
+        height:80px;
+        padding-top:0;
+        margin-top:0;
+    }
+      .menukuva3{
+        background-image: url("img/valikko_nappi3.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:270px;
+        height:80px;
+        padding-top:0;
+        margin-top:0;
+    }
+    .valinta1, .valinta2, .valinta3{
+        width: 270px;
+        height: 60px;
+        font-size:50px;
+        text-align:center;
+        margin-top:5px;
+        padding-top:5px;
+    }
+    
+    .kuva1{
+        background-image: url("img/pelinappi.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:250px;
+        height:60px;
+        padding-top:0px;
+        margin-top:25px;
+    }
+    
+    .pix1{
+        width: 250px;
+        height: 60px;
+        text-align:center;
+        font-size:33px;
+        color: white;
+        -webkit-text-fill-color: white;
+        text-shadow: 2px 1px black;
+        padding:0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+    
+     .kuva{
+        background-image: url("img/pelinappi.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:250px;
+        height:60px;
+        padding-top:0px;
+        margin-top:10px;
+    }
+    
+    .pix{
+        width: 250px;
+        height: 60px;
+        text-align:center;
+        font-size:33px;
+        color: white;
+        -webkit-text-fill-color: white;
+        text-shadow: 2px 1px black;
+        padding:0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+         .ylapalkki {
+    
+        background-color:#407c52;
+        width:100%;
+        text-align:center;
+        font-size:35px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 2px 1px black;
+        margin:0;
+        padding:0;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top:-5px;
+}
+    
+    .kysymysnumero{
+        font-size:30px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 1px 2px black;
+        position: absolute;
+        left:242px;
+        top:75px;
+
+    }
+    
+    
+        .pisteet{
+        font-size:45px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 2px 3px black;
+        position: absolute;
+        right:262px;
+        top:218px;
+
+    }
+    
+    
+    img{
+     width:275px; 
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:10px;
+    margin-top:10px;
+    }
+
+ 
+    .questionText{  
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+    }
+    
+
+    #navContent{
+        width:101%;
+        height:101%;
+        
+    }
+    #game1{
+        margin:1%;
+        width:99%;
+        height:99%;
+    }
+    #game2{
+        margin:1%;
+        width:99%;
+        height:99%;
+    }
+
+    .otsikko{
+        width:300px;
+        height:300px;
+        margin:0;
+        padding:0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .menukuva{
+        margin-top:20px;
+    }
+    
+        .ylapalkki2{
+        background-color:#407c52;
+        width:100%;
+        text-align:center;
+        font-size:35px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 2px 1px black;
+        margin:0;
+        padding:0;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top:-5px;
+    }
+    
+    .loppu{
+        background-image: url("img/palaute.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        height:290px; 
+        margin-bottom:25px;
+        display: block;
+        margin:0;
+        padding:0;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top:60px;
+    }
+        
+    .tulokset{
+        height:220px;     
+        text-align:center;
+        font-size:60px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+        display: block;
+        margin:0;
+        padding:0;
+        padding-top:60px;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+        .pelaauud{
+        background-image: url("img/jatkamenuun.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:260px;
+        height:75px;
+        margin:0;
+        padding:0;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top:5px;
+        margin-top:70px;
+    }
+    
+        .uudestaan{
+        width:260px;
+        height:75px;
+        text-align:center;
+        font-size:50px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+         margin:0;
+        padding:0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+        
+    .feedback1{
+    position:absolute;
+    left:0; 
+    right:0;
+    top:100px; 
+    bottom:0;
+    margin:auto;
+    width:350px;
+    height:350px;
+
+    }
+
+    .y{
+    position:absolute;
+    left:0; 
+    right:0;
+    top:0; 
+    bottom:0;
+    margin:auto;
+    width: 98%;
+    height:98%;
+
+    }
+
+    
+}
+
+@media screen and (max-width:350px) {
+    
+    html {
+margin: 0;
+padding: 0;
+width:100%;
+height: 100%;
+font-family: BebasNeue;
+overflow-x: hidden;
+
+}
+     
+body {
+margin: 0;
+padding: 0;
+position: fixed;
+background: #000 url("img/tausta.png") no-repeat fixed center;
+background-size: 100% 100%;
+overflow: hidden;
+overflow-x: hidden;
+}
+    
+    .menukuva{
+        background-image: url("img/valikko_nappi1.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:250px;
+        padding-top:0px;
+        margin-top:0px;
+    }
+        .menukuva2{
+        background-image: url("img/valikko_nappi2.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:250px;
+        padding-top:0px;
+        margin-top:0px;
+    }
+        .menukuva3{
+        background-image: url("img/valikko_nappi3.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:250px;
+        padding-top:0px;
+        margin-top:0px;
+    }
+    .valinta1, .valinta2, .valinta3{
+        width: 245px;
+        height: 55px;
+        font-size:45px;
+        text-align:center;
+        margin-top:0px;
+        padding-top:5px;
+        
+    }
+
+    .ylapalkki {
+    
+        background-color:#407c52;
+        width:100%;
+        text-align:center;
+        font-size:35px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+        margin:0;
+        padding:0;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top:-5px;
+}
+  
+    .kuva1{
+        background-image: url("img/pelinappi.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:220px;
+        height:55px;
+        padding-top:0px;
+        margin-top:25px;
+
+    }
+    .pix1{
+        width: 220px;
+        height: 55px;
+        text-align:center;
+        font-size:30px;
+        color: white;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+        margin:0;
+        padding:0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+     .kuva{
+        background-image: url("img/pelinappi.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:220px;
+        height:55px;
+        padding-top:0px;
+        margin-top:5px;
+
+    }
+    .pix{
+        width: 220px;
+        height: 55px;
+        text-align:center;
+        font-size:30px;
+        color: white;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+        margin:0;
+        padding:0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .kysymysnumero{
+        font-size:25px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 1px 2px black;
+        position: absolute;
+        left:220px;
+        top:80px;
+
+    }
+    
+    
+        .pisteet{
+        font-size:45px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+        position: absolute;
+        right:230px;
+        top:210px;
+
+    }
+    
+    
+    img{
+     width:250px; 
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:25px;
+    margin-top:20px;
+    }
+ 
+
+    .questionText{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+    }
+
+    
+    #navContent{    
+        width:101%;
+        height:545px;
+        
+    }
+    #game1{
+        margin:1%;
+        width:99%;
+        height:99%;
+    }
+    #game2{
+        margin:1%;
+        width:99%;
+        height:99%;
+    }
+    
+    .otsikko{
+        width:250px;
+        height:250px;
+        margin:0;
+        padding:0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .menukuva{
+        margin-top:40px;
+    }
+
+        .ylapalkki2{
+        background-color:#407c52;
+        width:100%;
+        text-align:center;
+        font-size:35px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 2px 1px black;
+        margin:0;
+        padding:0;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top:-5px;
+    }
+    
+    .loppu{
+        background-image: url("img/palaute.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        height:290px; 
+        margin-bottom:25px;
+        display: block;
+        margin:0;
+        padding:0;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top:40px;
+    }
+        
+    .tulokset{
+        height:220px;     
+        text-align:center;
+        font-size:60px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+        display: block;
+        margin:0;
+        padding:0;
+        padding-top:60px; 
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+        .pelaauud{
+        background-image: url("img/jatkamenuun.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width:260px;
+        height:75px;
+        margin:0;
+        padding:0;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top:5px;
+        margin-top:50px;
+    }
+    
+        .uudestaan{
+        width:260px;
+        height:75px;
+        text-align:center;
+        font-size:50px;
+        color:white;
+        -webkit-text-fill-color: white;
+        text-shadow: 3px 2px black;
+         margin:0;
+        padding:0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    
+    .feedback1{
+    position:absolute;
+    left:0; 
+    right:0;
+    top:130px; 
+    bottom:0;
+    margin:auto;
+    width:300px;
+    height:300px;
+
+    }
+
+    .y{
+    position:absolute;
+    left:0; 
+    right:0;
+    top:0; 
+    bottom:0;
+    margin:auto;
+    width: 98%;
+    height:98%;
+
+    }
+    
+}

@@ -1,0 +1,30 @@
+<h4>Haku</h4>
+
+<div class="card">
+                 <div class="item item-text-wrap">
+                    <input type="text" placeholder="Hae kasvin nimellä..." ng-model="hakusana.nimi_fi">
+                </div>
+                </div>
+
+                <ul class="list">
+                    <li class="item1" ng-repeat="kaikki_kasvi in kaikki_kasvit | orderBy: nimi_fi : false | filter: hakusana " ng-show="hakusana.nimi_fi">
+                        
+                    <div class="list card">
+                            
+                    <div class="item item-avatar">    
+                        <img class="pikkukuva" src="{{kaikki_kasvi.pikkukuva}}">
+                        <h2>{{ kaikki_kasvi.nimi_fi }}</h2>
+                        <p><i>{{ kaikki_kasvi.nimi_lat }}</i></p>
+                    </div>
+                        
+                    <div class="item item-body">    
+                    <img class="isokuva" ng-src="{{kaikki_kasvi.kuva}}"/>
+                    <p>{{ kaikki_kasvi.tuntomerkit }}</p>
+                    <p>{{ kaikki_kasvi.pituus }}</p>
+                    <p>{{ kaikki_kasvi.kukintaaika }}</p>
+                    <p>{{ kaikki_kasvi.muuta }}</p>
+                    </div>     
+                    </div>
+   
+                    </li>
+                </ul>

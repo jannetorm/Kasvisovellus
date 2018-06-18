@@ -1,0 +1,32 @@
+[
+{
+      "pikkukuva": "img/pikkukuvat/puu1.png",
+      "nimi_fi": "Hieskoivu",
+      "nimi_lat": "Betula pubescens",
+      "tuntomerkit": "Tuntomerkit: Koivujen runko on vaalean tai tummahkon tuohen peittämä. Lehdet kierteisesti.", 
+      "pituus": "Pituus: 8–20 m",
+      "kukintaaika": "Kukinta-aika: Huhti–kesäkuu.",
+      "muuta": "Muuta: Tunturialueella kasvaa tunturikoivua, joka on hieskoivun lyhyempi, usein monirunkoinen tai pensastava alalaji.",
+      "kuva": "img/luokka1/koivu.png"
+    },    
+    {
+      "pikkukuva": "img/pikkukuvat/puu1.png",
+      "nimi_fi": "Kuusi",
+      "nimi_lat": "Picea abies",
+      "tuntomerkit": "Tuntomerkit: suora runko, tasaisesti alaspäin leviävä oksisto, yksittäin oksaan kiinnittyvät lyhyet neulaset, pitkä ja suippo käpy ", 
+      "pituus": "Pituus: 20–30 m (Suomen pisin 45,1 m).",
+      "kukintaaika": "Kukinta-aika: Touko–kesäkuu",
+      "muuta": "Muuta: Suomen metsistä 26 % on kuusivaltaisia",
+      "kuva": "img/luokka1/kuusi.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/puu1.png",  
+      "nimi_fi": "Mänty",
+      "nimi_lat": "Pinus sylvestris",
+      "tuntomerkit": "Tuntomerkit: suora runko, oksia yleensä vain rungon yläosassa, neulaset ovat pitkät ja kiinnittyvät oksaan pareittain, käpy kolmiomainen.", 
+      "pituus": "Pituus: 30–35 m.",
+      "kukintaaika": "Kukinta-aika: (Touko–)kesä(–heinä)kuu.",
+      "muuta": "Muuta: Suomen vanhin mänty on yli 800-vuotias. Männyssä on pihkaa, ja siksi se ei lahoa kovin helposti. Pystyyn kuivunutta mäntyä kutsutaan keloksi.",
+      "kuva": "img/luokka1/manty.png"
+    }
+]

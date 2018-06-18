@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Tunnista kasvi -peli",
+  "short_name": "Tunnista kasvi -peli",
+  "version": "fi.xamk.jt.kasvi",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "orientation": "portrait",
+  "start_url": "index.html"
+}

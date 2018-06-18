@@ -1,0 +1,22 @@
+[ 
+{
+      "pikkukuva": "img/pikkukuvat/marjat1.png",
+      "nimi_fi": "Mustikka",
+      "nimi_lat": "Vaccinium myrtillus",
+      "tuntomerkit": "Tuntomerkit: varsi runsashaarainen, marjat sinisiä.", 
+      "pituus": "Pituus: 10–40 cm.",
+      "kukintaaika": "Kukinta-aika: Touko–kesä(–heinä)kuu.",
+      "muuta": "Muuta: Mustikka on yleisimpiä metsäkasvejamme.",
+      "kuva": "img/luokka1/mustikka.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/marjat1.png",
+      "nimi_fi": "Puolukka",
+      "nimi_lat": "Vaccinium vitis-idaea",
+      "tuntomerkit": "Tuntomerkit: nahkeat lehdet, marjat punaisia.", 
+      "pituus": "Pituus: 5–30 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–heinä(–elo)kuu.",
+      "muuta": "Muuta: Puolukka on eniten kerätty luonnonmarjamme.",
+      "kuva": "img/luokka1/puolukka.png"
+    }
+]

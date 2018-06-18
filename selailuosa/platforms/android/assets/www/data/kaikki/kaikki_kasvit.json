@@ -1,0 +1,598 @@
+[
+{
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Käenkaali/Ketunleipä",
+      "nimi_lat": "Oxalis acetosella",
+      "tuntomerkit": "Tuntomerkit: kukka säteittäinen ja lehdet ruusukkeina.", 
+      "pituus": "Pituus: 5–10 cm.",
+      "kukintaaika": "Kukinta-aika: Touko–kesäkuu",
+      "muuta": "Muuta: Käenkaali on sopeutunut kasvamaan metsänpohjan varjossa.",
+      "kuva": "img/luokka1/kaenkaali.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Leskenlehti",
+      "nimi_lat": "Leskenlehti",
+      "tuntomerkit": "Tuntomerkit: Varsi haaraton. Kukat muodostavat n. 1,5 cm leveitä kukkamaisia mykeröitä. Mykerön kukat kirkkaankeltaisia.", 
+      "pituus": "Pituus: Kukintoverso 5–30 cm, hedelmävaiheessa pitenevä.",
+      "kukintaaika": "Kukinta-aika: (Maalis–)huhti–kesäkuu.",
+      "muuta": "Muuta: Kevään ensimmäinen leskenlehti on vuodesta toiseen uutinen tiedotusvälineissä. Leskenlehti alkaa kukkia kevään ensimmäisissä pälvissä usein ensimmäisenä kasvina paljaalla maalla.",
+      "kuva": "img/luokka1/leskenlehti.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Voikukka",
+      "nimi_lat": "Voikukka",
+      "tuntomerkit": "Tuntomerkit: Varsi haaraton, lehdetön ja ontto. Runsaasti maitiaisnestettä. Kukat muodostavat n. 2–3 cm leveitä mykeröitä. Mykerön kukat ovat keltaisia.", 
+      "pituus": "Pituus: 10-50 cm.",
+      "kukintaaika": "Kukinta-aika: Touko–heinäkuu. (Voi kukkia vielä myöhään syksyllä.)",
+      "muuta": "Muuta: Kasvaa usein ihmistoiminnan piirissä, kuten niityillä, pientareilla ja joutomailla. Myös rannoilla ja kosteikoissa.",
+      "kuva": "img/luokka1/voikukka.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Nokkonen",
+      "nimi_lat": "Nokkonen",
+      "tuntomerkit": "Tuntomerkit: Lehdet tummanvihreitä. Sen lehdissä ja varressa on poltinkarvoja.", 
+      "pituus": "Pituus: 30-150 cm.",
+      "kukintaaika": "Kukinta-aika: Heinä–syyskuu.",
+      "muuta": "Muuta: Kasvupaikkana koko Suomi, puutarhat, pihat, pellon ja tien reunat. Nuoret lehdet sopivat ruuanlaittoon.",
+      "kuva": "img/luokka1/nokkonen.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Kanerva",
+      "nimi_lat": "Kanerva",
+      "tuntomerkit": "Tuntomerkit: Varsi tiheähaarainen, kukka vaaleansinipunainen.", 
+      "pituus": "Pituus: 10-50 cm.",
+      "kukintaaika": "Kukinta-aika: Heinä–elokuu.",
+      "muuta": "Muuta: Kasvupaikkana valoisat ja kuivat kangasmetsät, hietikot, rämeet, kalliot, tunturit.",
+      "kuva": "img/luokka1/kanerva.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Sinivuokko",
+      "nimi_lat": "Sinivuokko",
+      "tuntomerkit": "Tuntomerkit: kukat sinisen violetteja, lehdet herttatyvisiä.", 
+      "pituus": "Pituus: 10-15 cm.",
+      "kukintaaika": "Kukinta-aika: Huhti–toukokuu.",
+      "muuta": "Muuta: Kasvaa Etelä-Suomen metsissä. Sen kerääminen myytäväksi on kielletty. Se on myrkyllinen.",
+      "kuva": "img/luokka1/sinivuokko.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Valkovuokko",
+      "nimi_lat": "Valkovuokko",
+      "tuntomerkit": "Tuntomerkit: Lehdet kolmilehdykkäiset haarattomassa varressa, valkoinen kukka.", 
+      "pituus": "Pituus: 8-30 cm.",
+      "kukintaaika": "Kukinta-aika: (Huhti–)touko–kesäkuu.",
+      "muuta": "Muuta: Tunnettu äitienpäiväkukka.",
+      "kuva": "img/luokka1/valkovuokko.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/marjat1.png",
+      "nimi_fi": "Mustikka",
+      "nimi_lat": "Mustikka",
+      "tuntomerkit": "Tuntomerkit: varsi runsashaarainen, marjat sinisiä.", 
+      "pituus": "Pituus: 10–40 cm.",
+      "kukintaaika": "Kukinta-aika: Touko–kesä(–heinä)kuu.",
+      "muuta": "Muuta: Mustikka on yleisimpiä metsäkasvejamme.",
+      "kuva": "img/luokka1/mustikka.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/marjat1.png",
+      "nimi_fi": "Puolukka",
+      "nimi_lat": "Puolukka",
+      "tuntomerkit": "Tuntomerkit: nahkeat lehdet, marjat punaisia.", 
+      "pituus": "Pituus: 5–30 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–heinä(–elo)kuu.",
+      "muuta": "Muuta: Puolukka on eniten kerätty luonnonmarjamme.",
+      "kuva": "img/luokka1/puolukka.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/puu1.png",
+      "nimi_fi": "Hieskoivu",
+      "nimi_lat": "Hieskoivu",
+      "tuntomerkit": "Tuntomerkit: Koivujen runko on vaalean tai tummahkon tuohen peittämä. Lehdet kierteisesti.", 
+      "pituus": "Pituus: 8–20 m",
+      "kukintaaika": "Kukinta-aika: Huhti–kesäkuu.",
+      "muuta": "Muuta: Tunturialueella kasvaa tunturikoivua, joka on hieskoivun lyhyempi, usein monirunkoinen tai pensastava alalaji.",
+      "kuva": "img/luokka1/koivu.png"
+    },    
+    {
+      "pikkukuva": "img/pikkukuvat/puu1.png",
+      "nimi_fi": "Kuusi",
+      "nimi_lat": "Kuusi",
+      "tuntomerkit": "Tuntomerkit: suora runko, tasaisesti alaspäin leviävä oksisto, yksittäin oksaan kiinnittyvät lyhyet neulaset, pitkä ja suippo käpy ", 
+      "pituus": "Pituus: 20–30 m (Suomen pisin 45,1 m).",
+      "kukintaaika": "Kukinta-aika: Touko–kesäkuu",
+      "muuta": "Muuta: Suomen metsistä 26 % on kuusivaltaisia",
+      "kuva": "img/luokka1/kuusi.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/puu1.png",  
+      "nimi_fi": "Mänty",
+      "nimi_lat": "Mänty",
+      "tuntomerkit": "Tuntomerkit: suora runko, oksia yleensä vain rungon yläosassa, neulaset ovat pitkät ja kiinnittyvät oksaan pareittain, käpy kolmiomainen.", 
+      "pituus": "Pituus: 30–35 m.",
+      "kukintaaika": "Kukinta-aika: (Touko–)kesä(–heinä)kuu.",
+      "muuta": "Muuta: Suomen vanhin mänty on yli 800-vuotias. Männyssä on pihkaa, ja siksi se ei lahoa kovin helposti. Pystyyn kuivunutta mäntyä kutsutaan keloksi.",
+      "kuva": "img/luokka1/manty.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Puna-apila",
+      "nimi_lat": "Puna-apila",
+      "tuntomerkit": "Tuntomerkit: Kukka violetinpunainen, varsi usein monivartinen.", 
+      "pituus": "Pituus: 15–50 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–elo(–syys)kuu.",
+      "muuta": "Muuta: Puna-apila on maailman tärkeimpiä rehukasveja.",
+      "kuva": "img/luokka2/puna_apila.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Kielo",
+      "nimi_lat": "Kielo",
+      "tuntomerkit": "Tuntomerkit: Valkoiset ja pullean kellomaiset kukat sijaitsevat nuokkuvassa, terttumaisessa kukinnossa. Lehdet soikeita ja ehytreunaisia.", 
+      "pituus": "Pituus: 15–25 cm.",
+      "kukintaaika": "Kukinta-aika: Touko–kesäkuu.",
+      "muuta": "Muuta: Suomen kansalliskukka.",
+      "kuva": "img/luokka2/kielo.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Niittyleinikki",
+      "nimi_lat": "Niittyleinikki",
+      "tuntomerkit": "Tuntomerkit: Kukka kullankeltainen, varsi monihaarainen.", 
+      "pituus": "Pituus: 5–100 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–syyskuu.",
+      "muuta": "Muuta: Kasvaa koko Suomessa, niityillä ja tien reunoilla. Kukkii lähes koko kesän. Se on myrkyllinen.",
+      "kuva": "img/luokka2/niittyleinikki.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Piharatamo",
+      "nimi_lat": "Piharatamo",
+      "tuntomerkit": "Tuntomerkit: Kukinto tiheä, kapean lieriömäinen tähkä.", 
+      "pituus": "Pituus: 5–30 cm.",
+      "kukintaaika": "Kukinta-aika: Heinä–syyskuu.",
+      "muuta": "Muuta: Kutsutaan myös joskus nimellä laastarilehti, sillä piharatamo on kätevä luonnonlaastari: lehti pehmitetään sitä vähän rutistelemalla, kostutetaan sylkäisemällä ja painetaan haavan päälle.",
+      "kuva": "img/luokka2/piharatamo.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Lumme",
+      "nimi_lat": "Lumme",
+      "tuntomerkit": "Tuntomerkit: Kelluslehdellinen vesikasvi, kukka valkoinen.", 
+      "pituus": "Pituus: Noin 0,5–2 m.",
+      "kukintaaika": "Kukinta-aika: Kesä–elokuu.",
+      "muuta": "Muuta: Lumpeet avaavat kukkansa vain valoisana aikana ja esim. sateella kukat saatavat sulkeutua.",
+      "kuva": "img/luokka2/lumme.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Ulpukka",
+      "nimi_lat": "Ulpukka",
+      "tuntomerkit": "Tuntomerkit: Kelluslehdellinen vesikasvi, kukka keltainen.", 
+      "pituus": "Pituus: 0,5–3 m.",
+      "kukintaaika": "Kukinta-aika: Kesä–elokuu.",
+      "muuta": "Muuta: Ulpukka viihtyy hyvin erilaisissa vesistöissä ja monenlaisilla pohjilla.",
+      "kuva": "img/luokka2/ulpukka.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/marjat1.png",
+      "nimi_fi": "Mansikka",
+      "nimi_lat": "Mansikka",
+      "tuntomerkit": "Tuntomerkit: Lehdet kasvavat ruusukkeisesti, ja lehti on kolmisorminen. Kukat valkoisia. Marja punainen.", 
+      "pituus": "Pituus: 20–40 cm.",
+      "kukintaaika": "Kukinta-aika: Touko-kesäkuu.",
+      "muuta": "Muuta: Mansikassa on enemmän C-vitamiinia kuin appelsiinissa.",
+      "kuva": "img/luokka2/mansikka.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/marjat1.png",
+      "nimi_fi": "Vadelma",
+      "nimi_lat": "Vadelma",
+      "tuntomerkit": "Tuntomerkit: Pensasmainen, lehdet soikeita, marjat punaisia.", 
+      "pituus": "Pituus: 0,5–1,5 m.",
+      "kukintaaika": "Kukinta-aika: Kesä–heinäkuu.",
+      "muuta": "Muuta: Vadelmia käytetään mm. hilloissa.",
+      "kuva": "img/luokka2/vadelma.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/puu1.png",
+      "nimi_fi": "Haapa",
+      "nimi_lat": "Haapa",
+      "tuntomerkit": "Tuntomerkit: Suora runko, kuori vihertävän harmaa, lehti pyöreä ja mutkalaitainen.", 
+      "pituus": "Pituus: 15–30 m.",
+      "kukintaaika": "Kukinta-aika: Huhti–kesäkuu. Kukkii ennen lehtien puhkeamista.",
+      "muuta": "Muuta: Haapa on kevyttä ja helposti työkaluilla muotoiltavaa puuta, minkä vuoksi sitä käytetään usein esimerkiksi saunan lauteiden tekemiseen.",
+      "kuva": "img/luokka2/haapa.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/puu1.png",
+      "nimi_fi": "Vaahtera",
+      "nimi_lat": "Vaahtera",
+      "tuntomerkit": "Tuntomerkit: Isot 3- tai 5-halkioiset lehdet.", 
+      "pituus": "Pituus: 10–20 m.",
+      "kukintaaika": "Kukinta-aika: Touko–kesäkuu. Kukkii lehtien puhjetessa.",
+      "muuta": "Muuta: Syysväritys tumman karmiininpunaisesta oranssiin ja kullankeltaiseen.",
+      "kuva": "img/luokka2/vaahtera.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Ahvenvita",
+      "nimi_lat": "Potamogeton perfoliatus",
+      "tuntomerkit": "Tuntomerkit: Varsi taipuisa, lehdet ohuet ja läpikuultavat, kukinto tähkämäinen", 
+      "pituus": "Pituus: 0,5-3 m.",
+      "kukintaaika": "Kukinta-aika: Heinä-elokuu",
+      "muuta": "Muuta: Ahvenvita kasvaa veden alla. Vain 2-3 cm pitkät kukinnot kohoavat vedenpinnan yläpuolelle.",
+      "kuva": "img/luokka3/ahvenvita.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Harakankello",
+      "nimi_lat": "Campanula patula",
+      "tuntomerkit": "Tuntomerkit: Kukat 5-liuskaisia, sinipunaisia.", 
+      "pituus": "Pituus: 25–80 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–syyskuu.",
+      "muuta": "Muuta: Kasvupaikkoina niityt, pientareet, tienvarret, kesantopellot, joutomaat.",
+      "kuva": "img/luokka3/harakankello.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Järviruoko",
+      "nimi_lat": "Phragmites australis",
+      "tuntomerkit": "Tuntomerkit: Korkea, vedessä kasvava heinäkasvi, pitkät lehdet", 
+      "pituus": "Pituus: 1-4 m.",
+      "kukintaaika": "Kukinta-aika: Heinä-syyskuu",
+      "muuta": "Muuta: Järviruokoa on käytetty olkikaton valmistukseen",
+      "kuva": "img/luokka3/jarviruoko.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Kurjenmiekka",
+      "nimi_lat": "Iris pseudacorus",
+      "tuntomerkit": "Tuntomerkit: Isot keltaiset kukat, kasvavat usein vesirajassa.", 
+      "pituus": "Pituus: 50–90 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–heinäkuu.",
+      "kuva": "img/luokka3/kurjenmiekka.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Leveäosmankäämi",
+      "nimi_lat": "Typha latifolia",
+      "tuntomerkit": "Tuntomerkit: Kukinto kaksiosainen ruskea tähkä, lehdet sinivihreitä. Monivuotinen ruoho.", 
+      "pituus": "Pituus: 100–200 cm.",
+      "kukintaaika": "Kukinta-aika: Heinä–elokuu.",
+      "muuta": "Muuta: Kasvupaikkoina rannat, ojat, lammikot, kaivannot. Matalassa vedessä tai joskus märällä maalla.",
+      "kuva": "img/luokka3/leveaosmankaami.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/puu1.png",
+      "nimi_fi": "Paju",
+      "nimi_lat": "Salix",
+      "tuntomerkit": "Tuntomerkit: Pajulla on pitkät, ruskeat tai punertavat lakankiiltoiset versot. Se kukkii keväällä ennen lehtien puhkeamista. Siitä saadaan ”pajunkissat”.", 
+      "pituus": "Pituus: 0,5–3 m",
+      "kukintaaika": "Kukinta-aika: Huhti–kesäkuu. Kukkii ennen lehtien puhkeamista.",
+      "muuta": "Muuta: Suomessa pajulajeja on noin 20 ja risteymiä ainakin toinen mokoma.",
+      "kuva": "img/luokka3/paju.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/puu1.png",
+      "nimi_fi": "Tervaleppä",
+      "nimi_lat": "Alnus glutinosa",
+      "tuntomerkit": "Tuntomerkit: Lehdet ruodillisia, ehyitä. Pienet hede- ja emikukat eri kukinnoissa.", 
+      "pituus": "Pituus: 5-20 m.",
+      "kukintaaika": "Kukinta-aika: Huhtikuu. Kukkii ennen lehtien puhkeamista.",
+      "muuta": "Muuta: Tervalepän pehmeästä puusta tehtiin ennen puukenkiä ja lasitehtaissa muotteja.",
+      "kuva": "img/luokka3/tervaleppa.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Kissankello",
+      "nimi_lat": "Campanula rotundifolia",
+      "tuntomerkit": "Tuntomerkit: Siniset kellomaiset kukat.", 
+      "pituus": "Pituus: 10–60 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–syyskuu.",
+      "muuta": "Muuta: Kasvupaikkoina niityt, laitumet, joutomaat, tienvarret, pientareet, kalliot, harjut, valoisat metsät, puronvarret, tunturikankaat. Tunturikissankello on kalkinsuosija.",
+      "kuva": "img/luokka4/kissankello.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Koiranputki",
+      "nimi_lat": "Anthriscus sylvestris",
+      "tuntomerkit": "Tuntomerkit: Valkoiset kukat, varsi haarova.", 
+      "pituus": "Pituus: 50–150 cm.",
+      "kukintaaika": "Kukinta-aika: Touko–kesä(–heinä)kuu.",
+      "kuva": "img/luokka4/koiranputki.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Maitohorsma",
+      "nimi_lat": "Epilobium angustifolium",
+      "tuntomerkit": "Tuntomerkit: Kukat purppuranpunaisia, joskus vaaleanpunaisen-valkoisia.", 
+      "pituus": "Pituus: 50–150 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–elokuu.",
+      "kuva": "img/luokka4/maitohorsma.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Ohra",
+      "nimi_lat": "Hordeum vulgare",
+      "tuntomerkit": "Tuntomerkit: Pitkät vihneet, kun ohran tähkä kypsyy, se taipuu alaspäin.", 
+      "pituus": "Pituus: Ohra kasvaa noin metrin korkuiseksi.",
+      "kukintaaika": "Kukinta-aika: Kesä-heinäkuu.",
+      "muuta": "Muuta: Suomessa ohra oli tärkein ruokavilja 1800-luvulle asti, jolloin ruis otti sen paikan.",
+      "kuva": "img/luokka4/ohra.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Päivänkakkara",
+      "nimi_lat": "Leucanthemum vulgare",
+      "tuntomerkit": "Tuntomerkit: Kukat valkoisia, varsi haaraton.", 
+      "pituus": "Pituus: 20–70 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–syyskuu.",
+      "kuva": "img/luokka4/paivankakkara.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Pujo",
+      "nimi_lat": "Artemisia vulgaris",
+      "tuntomerkit": "Tuntomerkit: Monivartinen, varsi tummanpunaruskea. Kukat 2,5-3 mm leveitä.", 
+      "pituus": "Pituus: 50–150(–200) cm.",
+      "kukintaaika": "Kukinta-aika: Elo–lokakuu.",
+      "muuta": "Muuta: Ennen vanhaan pujonverson uskottiin suojaavan paholaiselta, villipedoilta, myrkyiltä, tulelta, vedeltä ja salamaniskuilta.",
+      "kuva": "img/luokka4/pujo.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Puna-apila",
+      "nimi_lat": "Trifolium pratense",
+      "tuntomerkit": "Tuntomerkit: Kukka violetti, joskus vaaleanpunainen-valkea.", 
+      "pituus": "Pituus: 15–50 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–elo(–syys)kuu.",
+      "kuva": "img/luokka4/puna_apila.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Ruis",
+      "nimi_lat": "Secale cereale",
+      "tuntomerkit": "Tuntomerkit: Rukiin kukinto on tähkä. Jyvissä on lyhyehköt vihneet. Ruis jaetaan kahteen päätyyppiin: syys- ja kevätrukiiseen.", 
+      "pituus": "Pituus: 130-150 cm.",
+      "kukintaaika": "Kukinta-aika: Syysruis kylvetään jo syyskesällä, ja se talvehtii oraina. Syysrukiin sato korjataan seuraavana vuonna heinä-elokuussa. Kevätruis kylvetään keväällä, ja sen sato valmistuu saman vuoden syksyllä.",
+      "muuta": "Muuta: Ruis on tuulipölytteinen, ja sen eri lajikkeet ja kannat risteytyvät keskenään, jos niitä kasvatetaan lähekkäin.",
+      "kuva": "img/luokka4/ruis.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Rypsi",
+      "nimi_lat": "Brassica rapa",
+      "tuntomerkit": "Tuntomerkit: Keltainen kukka, terälehtiä neljä. Auenneet kukat ulottuvat nuppuja ylemmäs.", 
+      "pituus": "Pituus: 40–100 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–heinä(–elo)kuu.",
+      "muuta": "Muuta: Rypsiä kasvatetaan öljypitoisten siementensä takia viileän ilmaston alueilta tropiikkiin asti.",
+      "kuva": "img/luokka4/rypsi.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Siankärsämö",
+      "nimi_lat": "Brassica rapa",
+      "tuntomerkit": "Tuntomerkit: Valkoiset ryppäisssä kukkivat kukinnot, varsi pehmeäkarvainen vihreä.", 
+      "pituus": "Pituus: 20–70 cm.",
+      "kukintaaika": "Kukinta-aika: Heinä–syys(–loka)kuu.",
+      "muuta": "Muuta: Osa ihmisistä saa ihottumaa jo kasvin koskettelusta. Sisäisesti nautittuna ylisuuret annokset aiheuttavat huimausta ja päänsärkyä.",
+      "kuva": "img/luokka5/siankarsamo.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Timotei",
+      "nimi_lat": "Phleum pratense",
+      "tuntomerkit": "Tuntomerkit: Timoteillä on jäykkä, tyvestä hieman paksuuntunut korsi. Kukinto on lieriömäinen, tiheä tähkä, joka on väriltään vihreä tai heikosti sinipunainen.", 
+      "pituus": "Pituus: 30-100 cm.",
+      "muuta": "Muuta: Timotein siitepöly on yleinen ja voimakas allergeeni.",
+      "kuva": "img/luokka5/timotei.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Vehnä",
+      "nimi_lat": "Triticum aestivum",
+      "tuntomerkit": "Tuntomerkit: Vehnän kukinto on tähkä, jyvässä ei yleensä ole vihneitä.", 
+      "pituus": "Pituus: 80-95 cm.",
+      "kukintaaika": "Kukinta-aika: Suomessa viljellään sekä kevät- että syysvehnää. Syysvehnä kylvetään syksyllä, yleensä syyskuun alussa. Se talvehtii orasasteella ja sen sato korjataan seuraavan vuoden syksyllä. Kevätvehnä kylvetään keväällä heti kun maan sen sallii ja korjataan saman vuoden syksyllä.",
+      "muuta": "Muuta: Vehnä on riisin ja maissin ohella yksi maailman kolmesta eniten viljellystä viljalajista, ja vuosittain sitä tuotetaan maailmassa noin 600 miljoonaa tonnia.",
+      "kuva": "img/luokka4/vehna.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Vuohenputki",
+      "nimi_lat": "Aegopodium podagraria",
+      "tuntomerkit": "Tuntomerkit: Ontto vihreä varsi. Valkoinen ryppäissä kukkiva kukka.", 
+      "pituus": "Pituus: 30–100 cm.",
+      "kukintaaika": "Kukinta-aika: Kesä–elokuu.",
+      "muuta": "Muuta: Nykyihmisen ryytimaalla vuohenputki on kiusallinen rikkaruoho, mutta keskiajalla sitä on saatettu levittää aivan tarkoituksella lääkekasviksi kihdin parantamiseen (hauteena).",
+      "kuva": "img/luokka4/vuohenputki.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/puu1.png",
+      "nimi_fi": "Harmaaleppä",
+      "nimi_lat": "Alnus incana",
+      "tuntomerkit": "Tuntomerkit: Suippokärkiset lehdet, jotka molemmilta pinnoilta harmaakarvaiset.", 
+      "pituus": "Pituus: 3-15 m.",
+      "kukintaaika": "Kukinta-aika: Huhti–toukokuu. Kukkii ennen lehtien puhkeamista.",
+      "muuta": "Muuta: Harmaaleppä on nopeakasvuinen, mutta lyhytikäinen (50–60 vuotta). Se suosii reheväkasvuisia maita ja on hyvin lisääntymis- ja leviämiskykyinen.",
+      "kuva": "img/luokka4/harmaaleppa.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/puu1.png",
+      "nimi_fi": "Hieskoivu",
+      "nimi_lat": "Betula pubescens",
+      "tuntomerkit": "Tuntomerkit: Koivujen runko on vaalean tai tummahkon tuohen peittämä. Lehdet kierteisesti.", 
+      "pituus": "Pituus: 8–20 m.",
+      "kukintaaika": "Kukinta-aika: Huhti-kesäkuu.",
+      "muuta": "Muuta: Tunturialueella kasvaa tunturikoivua, joka on hieskoivun lyhyempi, usein monirunkoinen tai pensastava alalaji.",
+      "kuva": "img/luokka4/hieskoivu.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/puu1.png",
+      "nimi_fi": "Kataja",
+      "nimi_lat": "Juniperus communis",
+      "tuntomerkit": "Tuntomerkit: Lehdet kiiltävän vihreitä neulasmaisia. Hedekukinnot keltaisia.", 
+      "pituus": "Pituus: 0,2-15 m.",
+      "kukintaaika": "Kukinta-aika: Touko-kesäkuu.",
+      "muuta": "Muuta: Kataja on kaksikotinen, lievästi myrkyllinen pensas tai pieni puu. Se voi elää jopa yli 400-vuotiaaksi.",
+      "kuva": "img/luokka4/kataja.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Siankärsämö",
+      "nimi_lat": "Brassica rapa",
+      "tuntomerkit": "Tuntomerkit: Valkoiset ryppäisssä kukkivat kukinnot, varsi pehmeäkarvainen vihreä.", 
+      "pituus": "Pituus: 20–70 cm.",
+      "kukintaaika": "Kukinta-aika: Heinä–syys(–loka)kuu.",
+      "muuta": "Muuta: Osa ihmisistä saa ihottumaa jo kasvin koskettelusta. Sisäisesti nautittuna ylisuuret annokset aiheuttavat huimausta ja päänsärkyä.",
+      "kuva": "img/luokka5/siankarsamo.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Timotei",
+      "nimi_lat": "Phleum pratense",
+      "tuntomerkit": "Tuntomerkit: Timoteillä on jäykkä, tyvestä hieman paksuuntunut korsi. Kukinto on lieriömäinen, tiheä tähkä, joka on väriltään vihreä tai heikosti sinipunainen.", 
+      "pituus": "Pituus: 30-100 cm.",
+      "muuta": "Muuta: Timotein siitepöly on yleinen ja voimakas allergeeni.",
+      "kuva": "img/luokka5/timotei.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/marjat1.png",
+      "nimi_fi": "Hilla",
+      "nimi_lat": "Rubus chamaemorus",
+      "tuntomerkit": "Tuntomerkit: Valkoinen kukka, marja aluksi punainen, kypsänä keltainen.", 
+      "pituus": "Pituus: 10–25 cm.",
+      "kukintaaika": "Kukinta-aika: Kesäkuu.",
+      "muuta": "Muuta: Lakka on suoluontomme tavoitelluin aarre: sen marja on aromikas ja hyvin C-vitamiinipitoinen herkku. Lakka on monien hienojen jälkiruokien, leivonnaisten ja liköörien raaka-aine.",
+      "kuva": "img/luokka5/hilla.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/marjat1.png",
+      "nimi_fi": "Karpalo",
+      "nimi_lat": "Vaccinium oxycoccos",
+      "tuntomerkit": "Tuntomerkit: Kanervakasvi, varsi rihmamainen. Lehdet tummanvihreitä ja kiiltäviä. Marja tummanpunainen pallomainen 10-15 mm leveä.", 
+      "pituus": "Pituus: Noin 5 cm korkea, maanmyötäiset versot 10–80 cm pitkiä.",
+      "kukintaaika": "Kukinta-aika: Kesä-heinäkuu.",
+      "muuta": "Muuta: Karpalo on yksi harvoja karuilla soilla rahkasammalen pinnalla menestyviä kasveja. Karpalon marjoista voidaan valmistaa mehua, hilloa tai vaikkapa likööriä.",
+      "kuva": "img/luokka5/karpalo.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/marjat1.png",
+      "nimi_fi": "Metsämansikka",
+      "nimi_lat": "Fragaria vesca",
+      "tuntomerkit": "Tuntomerkit: Valkoinen viisi terälehtinen kukka. Marja samanlainen kuin puutarhamansikassa, mutta huomattavasti pienempi.", 
+      "pituus": "Pituus: 5–20 cm.",
+      "kukintaaika": "Kukinta-aika: Touko–heinäkuu.",
+      "muuta": "Muuta: Ahomansikka on vähentynyt viime aikoina, kun perinteisen maatalouden ylläpitämät kasviyhteisöt ovat häviämässä.",
+      "kuva": "img/luokka5/metsamansikka.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/marjat1.png",
+      "nimi_fi": "Vadelma",
+      "nimi_lat": "Rubus idaeus",
+      "tuntomerkit": "Tuntomerkit: Pensasmainen, lehdet soikeita, marjat punaisia.", 
+      "pituus": "Pituus: 0,5–1,5 m.",
+      "kukintaaika": "Kukinta-aika: Kesä–heinäkuu.",
+      "muuta": "Muuta: Vadelmia käytetään mm. hilloissa.",
+      "kuva": "img/luokka5/vadelma.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Karhunsammal",
+      "nimi_lat": "Polytrichum",
+      "tuntomerkit": "Tuntomerkit: Tummanvihreitä sammalia, joiden muoto muistuttaa minikokoista männyn taimea.", 
+      "pituus": "Pituus: 1-10 cm.",
+      "muuta": "Muuta: Karhunsammalet ovat lehtisammalten suku, johon kuuluu alle 200 lajia.",
+      "kuva": "img/luokka6/karhunsammal.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Kerrossammal",
+      "nimi_lat": "Hylocomium splendens",
+      "tuntomerkit": "Tuntomerkit: Kasvutapa kerroksellinen, verso kolmeen kertaan haarainen.", 
+      "pituus": "Pituus: 1-10 cm.",
+      "muuta": "Muuta: Sammalta on käytetty seinäsammalen tapaan seinäntilkkeenä.",
+      "kuva": "img/luokka6/kerrossammal.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Kynsisammal",
+      "nimi_lat": "Dicranum",
+      "tuntomerkit": "Tuntomerkit: Varsi on ruskea, ja sitä peittää ruskea nukka. Latva on suvulle nimen antanut kissan kynttä muistuttava koukku.", 
+      "pituus": "Pituus: 2-15 cm.",
+      "muuta": "Muuta: Kasvaa kivillä, kallioilla ja lahopuissa.",
+      "kuva": "img/luokka6/kynsisammal.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Naava",
+      "nimi_lat": "Usnea",
+      "tuntomerkit": "Tuntomerkit: Jäkäläkasvi, kasvaa puun oksilla, muistuttaa harmaata tai vihertävää partaa.", 
+      "pituus": "Pituus: 5-10 cm. Pisimmät jopa 20 cm.",
+      "muuta": "Muuta: Naavoja on käytetty lääkekasveina ainakin tuhat vuotta.",
+      "kuva": "img/luokka6/naava.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Poronjäkälä",
+      "nimi_lat": "Cladonia rangiferina",
+      "tuntomerkit": "Tuntomerkit: Tuhkanharmaata kuivaa jäkälää, kasvaa tasaisina tuppaina.", 
+      "pituus": "Pituus: 5-10 cm.",
+      "muuta": "Muuta: Poronjäkälä on poron tärkeintä ravintoa.",
+      "kuva": "img/luokka6/poronjakala.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Pietaryrtti",
+      "nimi_lat": "Tanacetum vulgare",
+      "tuntomerkit": "Tuntomerkit: Punaruskea varsi, kukat keltaisia torvimaisia, kukinnot ryhminä.", 
+      "pituus": "Pituus: 30-150 cm.",
+      "kukintaaika": "Kukinta-aika: Heinä–syys(–loka)kuu.",
+      "muuta": "Muuta: Hedelmäpuiden ja perennapenkkien vieressä sen on todettu torjuvan kirvoja, kuivattuna se puolestaan karkottaa koita, kärpäsiä, itikoita ja muurahaisia sisätiloista.",
+      "kuva": "img/luokka6/pietaryrtti.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Rahkasammal",
+      "nimi_lat": "Sphagnum",
+      "tuntomerkit": "Tuntomerkit: Vaaleanvihreä tai punertavan väristä. Imee paljon kosteutta maasta.", 
+      "pituus": "Pituus: 2-10 cm.",
+      "muuta": "Muuta: Rahkasammal viihtyy happamassa maassa, ja osittain maatuneen rahkasammalen muodostama turve on niin hapanta, etteivät yleiset puulajit ja monet varvut menesty siinä.",
+      "kuva": "img/luokka6/rahkasammal.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/kukat1.png",
+      "nimi_fi": "Seinäsammal",
+      "nimi_lat": "Pleurozium schreberi",
+      "tuntomerkit": "Tuntomerkit: Seinäsammalen punaiset varret ovat pystyjä ja ne haarovat sulkamaisesti.", 
+      "pituus": "Pituus: 2-15 cm.",
+      "muuta": "Muuta: Suomen yleisin sammallaji. Seinäsammalta käytettiin aiemmin seinien tiivistämiseen, mistä se on suomenkielisen nimensäkin saanut.",
+      "kuva": "img/luokka6/seinasammal.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/marjat1.png",
+      "nimi_fi": "Oravanmarja",
+      "nimi_lat": "Maianthemum bifolium",
+      "tuntomerkit": "Tuntomerkit: Herttamainen lehti, valkoinen kukka ja kypsänä tummanpunainen marja.", 
+      "pituus": "Pituus: 5–20 cm.",
+      "kukintaaika": "Kukinta-aika: Touko–kesäkuu.",
+      "muuta": "Muuta: Marjat sisältävät sydämen toimintaan vaikuttavia aineita, ja jo muutaman gramman syöminen on vaarallista.",
+      "kuva": "img/luokka6/oravanmarja.png"
+    },
+    {
+      "pikkukuva": "img/pikkukuvat/marjat1.png",
+      "nimi_fi": "Variksenmarja",
+      "nimi_lat": "Empetrum nigrum",
+      "tuntomerkit": "Tuntomerkit: Punertava varsi, lehdet neulasmaisia, marja kiiltävän musta.", 
+      "pituus": "Pituus: 10-30 cm.",
+      "kukintaaika": "Kukinta-aika: Huhti-kesäkuu.",
+      "muuta": "Muuta: Variksenmarjan marjoja syövät monenlaiset eläimet punarinnasta metsoon ja kärpästä karhuun.",
+      "kuva": "img/luokka6/variksenmarja.png"
+    }
+]
